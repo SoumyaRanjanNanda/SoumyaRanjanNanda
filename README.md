@@ -24,9 +24,11 @@
 
 <img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
+ ##
+ 
+ ##
+ 
 
-
- <p align="center">
-  <img  width="400px" height="280px" src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif">
+  <p align="center">
+  <img  width="200px"src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif">
 </p>
-
