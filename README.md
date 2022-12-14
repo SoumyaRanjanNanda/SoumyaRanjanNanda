@@ -16,20 +16,15 @@
 
 - 😎 Hobbies: Coding+Listening Music 😇
  
-
- 
-
 ## 📈 My Stats:
 
 <p align='center'>
   <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=SoumyaRanjanNanda&theme=aura" alt="SoumyaRanjanNanda" /></a>
 </p>
 
-##  lets code:
+## Keep learning don't stop :
 
- <p align="center">
-  <img  width="200px"" src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif">
-</p>
+![snake gif](https://github.com/xgenos/xgenos/blob/output/github-contribution-grid-snake.svg)
 
 
 - ## Languages I know:
