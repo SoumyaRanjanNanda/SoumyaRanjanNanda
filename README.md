@@ -15,6 +15,18 @@
 - ⚡ Fun fact **The JAVA language was initially called Oak after an oak tree that stood outside James Gosling's office.**
 
 - 😎 Hobbies: Coding+Listening Music 😇
+ 
+- ## Languages I know:
+
+<img align = "left" src="https://img.icons8.com/color/100/000000/c-programming.png" alt="C" width="50px" /> 
+
+<img align = "left" src="https://camo.githubusercontent.com/a870803f30db1d15495072fa9e946a7fa6a6fc1a47fe12324aaf7509c410fc4a/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6a6176612e737667" alt="Java" width="50" height="50" />
+
+<img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
 
+
+ <p align="center">
+  <img  width="400px" height="280px" src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif">
+</p>
 
