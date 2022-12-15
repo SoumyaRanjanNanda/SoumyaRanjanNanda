@@ -1,4 +1,5 @@
-<h1 align="center">Hey! I'm Soumya</a> <img src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/Hi.gif?raw=true" width="30"></h1>
+<h1 align="center">Hey! I'm Soumya <img src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/Hi.gif?raw=true" width="30"></h1>
+
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/soumyaranjan_nanda_26)
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"> I'm a Student, Programmer 
@@ -12,7 +13,7 @@
 <p align='center'>
   <a href="#"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SoumyaRanjanNanda&theme=merko" alt="Soumya" /></a>
 </p>
-<h3 align="center">A Student Programmer from India</h3>
+
 
 
 - 🌱 I’m currently learning **Data Structure and Algorithms**
@@ -23,7 +24,7 @@
 
 - 😎 Hobbies: Coding+Listening Music 😇
  
-## 📈 My Stats:
+##  My Stats:
 
 <p align='center'>
   <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=SoumyaRanjanNanda&theme=aura" alt="SoumyaRanjanNanda" /></a>
@@ -32,6 +33,7 @@
 ## Keep learning don't stop :
 
 ![snake gif](https://github.com/xgenos/xgenos/blob/output/github-contribution-grid-snake.svg)
+
 
 
 - ## Languages I know:
