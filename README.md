@@ -11,7 +11,9 @@
 
 
 <a href="#"><img align="left" src="https://komarev.com/ghpvc/?username=SoumyaRanjanNanda&label=Profile%20views&color=0e75b6&style=flat" alt="SoumyaRanjanNanda"/></a>
+
 ##
+
 <p align='center'>
   <a href="#"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SoumyaRanjanNanda&theme=merko" alt="SoumyaRanjanNanda" /></a>
 </p>
