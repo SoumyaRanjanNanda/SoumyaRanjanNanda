@@ -3,15 +3,17 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/soumyaranjan_nanda_26)
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"> I'm a Student, Programmer 
 
-<p align='center'>
-  <a href="#"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SoumyaRanjanNanda&theme=merko" alt="Soumya" /></a>
-</p>
-<h3 align="center">A Student Programmer from India</h3>
 </br>
 <a href="#"><img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></a>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SoumyaRanjanNanda&label=Profile%20views&color=0e75b6&style=flat" alt="SoumyaRanjanNanda" /> </p>
+
+<p align='center'>
+  <a href="#"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SoumyaRanjanNanda&theme=merko" alt="Soumya" /></a>
+</p>
+<h3 align="center">A Student Programmer from India</h3>
+
 
 - 🌱 I’m currently learning **Data Structure and Algorithms**
 
